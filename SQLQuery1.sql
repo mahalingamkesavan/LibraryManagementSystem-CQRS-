@@ -1,0 +1,1 @@
+﻿Alter table UserRegistration ALTER column ApprovedBy varchar(100) null

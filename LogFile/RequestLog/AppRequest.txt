@@ -1,0 +1,28 @@
+2023-01-09 16:03:02,204 INFO  Microsoft.EntityFrameworkCore.Infrastructure.? [?] - MESSAGE: Entity Framework Core 6.0.12 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.12' with options: None
+2023-01-09 16:03:02,227 INFO  Microsoft.EntityFrameworkCore.Database.Command.? [?] - MESSAGE: Executed DbCommand (2ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[UserID], [u].[Created_By], [u].[Created_Date], [u].[Education], [u].[EmailID], [u].[FirstName], [u].[LastName], [u].[PhoneNumber], [u].[Updated_By], [u].[Updated_Date]
+FROM [UserRegistration] AS [u]
+WHERE [u].[UserID] = @__p_0
+2023-01-09 16:03:02,229 ERROR Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.? [?] - MESSAGE: An unhandled exception has occurred while executing the request.
+LibraryDAL.CostemException.AppException: User not found
+   at LibraryDAL.DAO.UserDetailDAO.GetUserDetail(Int32 UserID) in D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryDAL\DAO\UserDetailDAO.cs:line 83
+   at LibraryBAL.BAO.UserDetailBAO.GetUserDetail(Int32 UserID) in D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryBAL\BAO\UserDetailBAO.cs:line 37
+   at LibraryManagementSystem1.Controllers.UserController.GetUserDetail(Int32 UserID) in D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\Controllers\UserController.cs:line 42
+   at lambda_method129(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)

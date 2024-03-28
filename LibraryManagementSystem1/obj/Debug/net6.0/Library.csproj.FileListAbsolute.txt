@@ -1,0 +1,364 @@
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\appsettings.Development.json
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\appsettings.json
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Library.exe
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Library.deps.json
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Library.runtimeconfig.json
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Library.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Library.pdb
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\FluentAssertions.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Humanizer.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\log4net.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\LibraryBAL.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\LibraryDAL.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\LibraryUtil.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\LibraryBAL.pdb
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\LibraryDAL.pdb
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\LibraryUtil.pdb
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\Library.AssemblyInfo.cs
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cs
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cache
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets\msbuild.Library.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets\msbuild.build.Library.props
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Library.props
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Library.props
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\scopedcss\bundle\Library.styles.css
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\Library.csproj.CopyComplete
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\Library.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\refint\Library.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\Library.pdb
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\Library.genruntimeconfig.cache
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\net6.0\ref\Library.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\net6.0\Log4net.config
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Log4net.config
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\appsettings.Development.json
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\appsettings.json
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Library.exe
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Library.deps.json
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Library.runtimeconfig.json
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Library.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Library.pdb
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Enums.NET.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\FluentAssertions.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Humanizer.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\log4net.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\MathNet.Numerics.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\NPOI.OOXML.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\NPOI.OpenXml4Net.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\NPOI.OpenXmlFormats.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\NPOI.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\SixLabors.Fonts.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\LibraryBAL.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\LibraryDAL.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\LibraryUtil.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\LibraryBAL.pdb
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\LibraryDAL.pdb
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\LibraryUtil.pdb
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.AssemblyInfo.cs
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cs
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cache
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets\msbuild.Library.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets\msbuild.build.Library.props
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Library.props
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Library.props
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets.build.json
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets.development.json
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\scopedcss\bundle\Library.styles.css
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.csproj.CopyComplete
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\refint\Library.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.pdb
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.genruntimeconfig.cache
+D:\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\ref\Library.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\AutoMapper.dll
+D:\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.AssemblyInfo.cs
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cs
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cache
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\refint\Library.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.pdb
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Log4net.config
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\appsettings.Development.json
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\appsettings.json
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Library.exe
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Library.deps.json
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Library.runtimeconfig.json
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Library.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Library.pdb
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\AutoMapper.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Enums.NET.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Humanizer.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\log4net.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\MathNet.Numerics.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\MediatR.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\NPOI.OOXML.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\NPOI.OpenXml4Net.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\NPOI.OpenXmlFormats.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\NPOI.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\SixLabors.Fonts.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\LibraryBAL.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\LibraryDAL.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\LibraryUtil.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\LibraryBAL.pdb
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\LibraryDAL.pdb
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\bin\Debug\net6.0\LibraryUtil.pdb
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets\msbuild.Library.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets\msbuild.build.Library.props
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Library.props
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Library.props
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\scopedcss\bundle\Library.styles.css
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.csproj.CopyComplete
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\Library.genruntimeconfig.cache
+D:\Library(CQRS)\LibraryManagementSystem\LibraryManagementSystem1\obj\Debug\net6.0\ref\Library.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Log4net.config
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\appsettings.json
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Library.exe
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Library.deps.json
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Library.runtimeconfig.json
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Library.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Library.pdb
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Enums.NET.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\log4net.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\MathNet.Numerics.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\MediatR.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\NPOI.OOXML.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\NPOI.OpenXml4Net.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\NPOI.OpenXmlFormats.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\NPOI.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\LibraryBAL.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\LibraryDAL.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\LibraryUtil.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\LibraryBAL.pdb
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\LibraryDAL.pdb
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\bin\Debug\net6.0\LibraryUtil.pdb
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\Library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets\msbuild.Library.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets\msbuild.build.Library.props
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Library.props
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Library.props
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\scopedcss\bundle\Library.styles.css
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\Library.csproj.CopyComplete
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\Library.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\refint\Library.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\Library.pdb
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\Library.genruntimeconfig.cache
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryManagementSystem1\obj\Debug\net6.0\ref\Library.dll

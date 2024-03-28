@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WeI9Cf2uP2WUkQs70z3Bw14zYvjPrH8FMx4eWmOAAlvPmDuhVfQvXQ/I5ErhiWwucoxQhVxC+kb0hFn0cM9ExA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mahalingam_k.BLR\\Downloads\\maha\\maha\\LibraryManagementSystem-BE\\LibraryUtil\\LibraryUtil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahalingam_k.BLR\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mahalingam_k.BLR\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mahalingam_k.BLR\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\mahalingam_k.BLR\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

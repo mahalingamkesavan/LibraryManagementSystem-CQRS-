@@ -1,0 +1,68 @@
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryDAL\bin\Debug\net6.0\LibraryDAL.deps.json
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryDAL\bin\Debug\net6.0\LibraryDAL.runtimeconfig.json
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryDAL\bin\Debug\net6.0\LibraryDAL.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryDAL\bin\Debug\net6.0\LibraryDAL.pdb
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryDAL\bin\Debug\net6.0\LibraryUtil.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryDAL\bin\Debug\net6.0\LibraryUtil.pdb
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryDAL\obj\Debug\net6.0\LibraryDAL.csproj.AssemblyReference.cache
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryDAL\obj\Debug\net6.0\LibraryDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryDAL\obj\Debug\net6.0\LibraryDAL.AssemblyInfoInputs.cache
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryDAL\obj\Debug\net6.0\LibraryDAL.AssemblyInfo.cs
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryDAL\obj\Debug\net6.0\LibraryDAL.csproj.CoreCompileInputs.cache
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryDAL\obj\Debug\net6.0\LibraryDAL.csproj.CopyComplete
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryDAL\obj\Debug\net6.0\LibraryDAL.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryDAL\obj\Debug\net6.0\refint\LibraryDAL.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryDAL\obj\Debug\net6.0\LibraryDAL.pdb
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryDAL\obj\Debug\net6.0\LibraryDAL.genruntimeconfig.cache
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryDAL\obj\Debug\net6.0\ref\LibraryDAL.dll
+D:\LibraryManagementSystem\LibraryDAL\bin\Debug\net6.0\LibraryDAL.deps.json
+D:\LibraryManagementSystem\LibraryDAL\bin\Debug\net6.0\LibraryDAL.runtimeconfig.json
+D:\LibraryManagementSystem\LibraryDAL\bin\Debug\net6.0\LibraryDAL.dll
+D:\LibraryManagementSystem\LibraryDAL\bin\Debug\net6.0\LibraryDAL.pdb
+D:\LibraryManagementSystem\LibraryDAL\bin\Debug\net6.0\LibraryUtil.dll
+D:\LibraryManagementSystem\LibraryDAL\bin\Debug\net6.0\LibraryUtil.pdb
+D:\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\LibraryDAL.csproj.AssemblyReference.cache
+D:\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\LibraryDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\LibraryDAL.AssemblyInfoInputs.cache
+D:\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\LibraryDAL.AssemblyInfo.cs
+D:\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\LibraryDAL.csproj.CoreCompileInputs.cache
+D:\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\LibraryDAL.csproj.CopyComplete
+D:\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\LibraryDAL.dll
+D:\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\refint\LibraryDAL.dll
+D:\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\LibraryDAL.pdb
+D:\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\LibraryDAL.genruntimeconfig.cache
+D:\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\ref\LibraryDAL.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\LibraryDAL.csproj.AssemblyReference.cache
+D:\Library(CQRS)\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\LibraryDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Library(CQRS)\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\LibraryDAL.AssemblyInfoInputs.cache
+D:\Library(CQRS)\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\LibraryDAL.AssemblyInfo.cs
+D:\Library(CQRS)\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\LibraryDAL.csproj.CoreCompileInputs.cache
+D:\Library(CQRS)\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\LibraryDAL.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\refint\LibraryDAL.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\LibraryDAL.pdb
+D:\Library(CQRS)\LibraryManagementSystem\LibraryDAL\bin\Debug\net6.0\LibraryDAL.deps.json
+D:\Library(CQRS)\LibraryManagementSystem\LibraryDAL\bin\Debug\net6.0\LibraryDAL.runtimeconfig.json
+D:\Library(CQRS)\LibraryManagementSystem\LibraryDAL\bin\Debug\net6.0\LibraryDAL.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryDAL\bin\Debug\net6.0\LibraryDAL.pdb
+D:\Library(CQRS)\LibraryManagementSystem\LibraryDAL\bin\Debug\net6.0\LibraryUtil.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryDAL\bin\Debug\net6.0\LibraryUtil.pdb
+D:\Library(CQRS)\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\LibraryDAL.csproj.CopyComplete
+D:\Library(CQRS)\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\LibraryDAL.genruntimeconfig.cache
+D:\Library(CQRS)\LibraryManagementSystem\LibraryDAL\obj\Debug\net6.0\ref\LibraryDAL.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryDAL\bin\Debug\net6.0\LibraryDAL.deps.json
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryDAL\bin\Debug\net6.0\LibraryDAL.runtimeconfig.json
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryDAL\bin\Debug\net6.0\LibraryDAL.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryDAL\bin\Debug\net6.0\LibraryDAL.pdb
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryDAL\bin\Debug\net6.0\LibraryUtil.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryDAL\bin\Debug\net6.0\LibraryUtil.pdb
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryDAL\obj\Debug\net6.0\LibraryDAL.csproj.AssemblyReference.cache
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryDAL\obj\Debug\net6.0\LibraryDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryDAL\obj\Debug\net6.0\LibraryDAL.AssemblyInfoInputs.cache
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryDAL\obj\Debug\net6.0\LibraryDAL.AssemblyInfo.cs
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryDAL\obj\Debug\net6.0\LibraryDAL.csproj.CoreCompileInputs.cache
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryDAL\obj\Debug\net6.0\LibraryDAL.csproj.CopyComplete
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryDAL\obj\Debug\net6.0\LibraryDAL.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryDAL\obj\Debug\net6.0\refint\LibraryDAL.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryDAL\obj\Debug\net6.0\LibraryDAL.pdb
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryDAL\obj\Debug\net6.0\LibraryDAL.genruntimeconfig.cache
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryDAL\obj\Debug\net6.0\ref\LibraryDAL.dll

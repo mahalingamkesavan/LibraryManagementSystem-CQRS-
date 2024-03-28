@@ -1,0 +1,68 @@
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryBAL\bin\Debug\net6.0\LibraryBAL.deps.json
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryBAL\bin\Debug\net6.0\LibraryBAL.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryBAL\bin\Debug\net6.0\LibraryBAL.pdb
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryBAL\bin\Debug\net6.0\LibraryDAL.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryBAL\bin\Debug\net6.0\LibraryUtil.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryBAL\bin\Debug\net6.0\LibraryDAL.pdb
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryBAL\bin\Debug\net6.0\LibraryUtil.pdb
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryBAL\obj\Debug\net6.0\LibraryBAL.csproj.AssemblyReference.cache
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryBAL\obj\Debug\net6.0\LibraryBAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryBAL\obj\Debug\net6.0\LibraryBAL.AssemblyInfoInputs.cache
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryBAL\obj\Debug\net6.0\LibraryBAL.AssemblyInfo.cs
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryBAL\obj\Debug\net6.0\LibraryBAL.csproj.CoreCompileInputs.cache
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryBAL\obj\Debug\net6.0\LibraryBAL.csproj.CopyComplete
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryBAL\obj\Debug\net6.0\LibraryBAL.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryBAL\obj\Debug\net6.0\refint\LibraryBAL.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryBAL\obj\Debug\net6.0\LibraryBAL.pdb
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryBAL\obj\Debug\net6.0\ref\LibraryBAL.dll
+D:\LibraryManagementSystem\LibraryBAL\bin\Debug\net6.0\LibraryBAL.deps.json
+D:\LibraryManagementSystem\LibraryBAL\bin\Debug\net6.0\LibraryBAL.dll
+D:\LibraryManagementSystem\LibraryBAL\bin\Debug\net6.0\LibraryBAL.pdb
+D:\LibraryManagementSystem\LibraryBAL\bin\Debug\net6.0\LibraryDAL.dll
+D:\LibraryManagementSystem\LibraryBAL\bin\Debug\net6.0\LibraryUtil.dll
+D:\LibraryManagementSystem\LibraryBAL\bin\Debug\net6.0\LibraryDAL.pdb
+D:\LibraryManagementSystem\LibraryBAL\bin\Debug\net6.0\LibraryUtil.pdb
+D:\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\LibraryBAL.csproj.AssemblyReference.cache
+D:\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\LibraryBAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\LibraryBAL.AssemblyInfoInputs.cache
+D:\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\LibraryBAL.AssemblyInfo.cs
+D:\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\LibraryBAL.csproj.CoreCompileInputs.cache
+D:\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\LibraryBAL.csproj.CopyComplete
+D:\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\LibraryBAL.dll
+D:\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\refint\LibraryBAL.dll
+D:\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\LibraryBAL.pdb
+D:\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\ref\LibraryBAL.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\LibraryBAL.csproj.AssemblyReference.cache
+D:\Library(CQRS)\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\LibraryBAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Library(CQRS)\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\LibraryBAL.AssemblyInfoInputs.cache
+D:\Library(CQRS)\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\LibraryBAL.AssemblyInfo.cs
+D:\Library(CQRS)\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\LibraryBAL.csproj.CoreCompileInputs.cache
+D:\Library(CQRS)\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\LibraryBAL.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\refint\LibraryBAL.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\LibraryBAL.pdb
+D:\Library(CQRS)\LibraryManagementSystem\LibraryBAL\bin\Debug\net6.0\LibraryBAL.deps.json
+D:\Library(CQRS)\LibraryManagementSystem\LibraryBAL\bin\Debug\net6.0\LibraryBAL.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryBAL\bin\Debug\net6.0\LibraryBAL.pdb
+D:\Library(CQRS)\LibraryManagementSystem\LibraryBAL\bin\Debug\net6.0\LibraryDAL.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryBAL\bin\Debug\net6.0\LibraryUtil.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryBAL\bin\Debug\net6.0\LibraryDAL.pdb
+D:\Library(CQRS)\LibraryManagementSystem\LibraryBAL\bin\Debug\net6.0\LibraryUtil.pdb
+D:\Library(CQRS)\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\LibraryBAL.csproj.CopyComplete
+D:\Library(CQRS)\LibraryManagementSystem\LibraryBAL\obj\Debug\net6.0\ref\LibraryBAL.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryBAL\bin\Debug\net6.0\LibraryBAL.deps.json
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryBAL\bin\Debug\net6.0\LibraryBAL.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryBAL\bin\Debug\net6.0\LibraryBAL.pdb
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryBAL\bin\Debug\net6.0\LibraryDAL.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryBAL\bin\Debug\net6.0\LibraryUtil.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryBAL\bin\Debug\net6.0\LibraryDAL.pdb
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryBAL\bin\Debug\net6.0\LibraryUtil.pdb
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryBAL\obj\Debug\net6.0\LibraryBAL.csproj.AssemblyReference.cache
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryBAL\obj\Debug\net6.0\LibraryBAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryBAL\obj\Debug\net6.0\LibraryBAL.AssemblyInfoInputs.cache
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryBAL\obj\Debug\net6.0\LibraryBAL.AssemblyInfo.cs
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryBAL\obj\Debug\net6.0\LibraryBAL.csproj.CoreCompileInputs.cache
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryBAL\obj\Debug\net6.0\LibraryBAL.csproj.CopyComplete
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryBAL\obj\Debug\net6.0\LibraryBAL.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryBAL\obj\Debug\net6.0\refint\LibraryBAL.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryBAL\obj\Debug\net6.0\LibraryBAL.pdb
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryBAL\obj\Debug\net6.0\ref\LibraryBAL.dll

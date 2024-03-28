@@ -1,0 +1,10 @@
+2023-01-09 12:05:23,582 INFO  Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7034
+2023-01-09 12:05:23,622 INFO  Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5271
+2023-01-09 12:05:23,630 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+2023-01-09 12:05:23,634 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+2023-01-09 12:05:23,635 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\
+2023-01-09 12:05:45,476 INFO  Microsoft.EntityFrameworkCore.Infrastructure.? [?] - MESSAGE: Entity Framework Core 6.0.12 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.12' with options: None
+2023-01-09 12:05:46,383 INFO  Microsoft.EntityFrameworkCore.Database.Command.? [?] - MESSAGE: Executed DbCommand (64ms) [Parameters=[@__userLogin_EmailID_0='?' (Size = 50) (DbType = AnsiString), @__userLogin_Password_1='?' (Size = 20) (DbType = AnsiString)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[UserID], [u].[Created_By], [u].[Created_Date], [u].[EmailID], [u].[Password], [u].[Roles], [u].[Updated_By], [u].[Updated_Date], [u].[UserName]
+FROM [UserLogin] AS [u]
+WHERE ([u].[EmailID] = @__userLogin_EmailID_0) AND ([u].[Password] = @__userLogin_Password_1)

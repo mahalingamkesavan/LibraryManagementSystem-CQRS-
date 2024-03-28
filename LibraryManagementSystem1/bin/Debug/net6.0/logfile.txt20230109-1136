@@ -1,0 +1,5 @@
+2023-01-09 11:36:27,398 INFO  Microsoft.EntityFrameworkCore.Infrastructure.? [?] - MESSAGE: Entity Framework Core 6.0.12 initialized 'LibraryDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.12' with options: None
+2023-01-09 11:36:30,674 INFO  Microsoft.EntityFrameworkCore.Database.Command.? [?] - MESSAGE: Executed DbCommand (84ms) [Parameters=[@__userLogin_EmailID_0='?' (Size = 50) (DbType = AnsiString), @__userLogin_Password_1='?' (Size = 20) (DbType = AnsiString)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[UserID], [u].[Created_By], [u].[Created_Date], [u].[EmailID], [u].[Password], [u].[Roles], [u].[Updated_By], [u].[Updated_Date], [u].[UserName]
+FROM [UserLogin] AS [u]
+WHERE ([u].[EmailID] = @__userLogin_EmailID_0) AND ([u].[Password] = @__userLogin_Password_1)

@@ -1,0 +1,5 @@
+2023-01-09 12:23:08,673 INFO  Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7034
+2023-01-09 12:23:08,737 INFO  Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5271
+2023-01-09 12:23:08,744 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+2023-01-09 12:23:08,747 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+2023-01-09 12:23:08,750 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryManagementSystem1\

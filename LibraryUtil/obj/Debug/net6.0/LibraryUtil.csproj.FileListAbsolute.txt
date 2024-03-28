@@ -1,0 +1,48 @@
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryUtil\bin\Debug\net6.0\LibraryUtil.deps.json
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryUtil\bin\Debug\net6.0\LibraryUtil.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryUtil\bin\Debug\net6.0\LibraryUtil.pdb
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryUtil\obj\Debug\net6.0\LibraryUtil.csproj.AssemblyReference.cache
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryUtil\obj\Debug\net6.0\LibraryUtil.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryUtil\obj\Debug\net6.0\LibraryUtil.AssemblyInfoInputs.cache
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryUtil\obj\Debug\net6.0\LibraryUtil.AssemblyInfo.cs
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryUtil\obj\Debug\net6.0\LibraryUtil.csproj.CoreCompileInputs.cache
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryUtil\obj\Debug\net6.0\LibraryUtil.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryUtil\obj\Debug\net6.0\refint\LibraryUtil.dll
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryUtil\obj\Debug\net6.0\LibraryUtil.pdb
+D:\Main\Main\Trigent Days\Library\LibraryManagementSystem1\LibraryUtil\obj\Debug\net6.0\ref\LibraryUtil.dll
+D:\LibraryManagementSystem\LibraryUtil\bin\Debug\net6.0\LibraryUtil.deps.json
+D:\LibraryManagementSystem\LibraryUtil\bin\Debug\net6.0\LibraryUtil.dll
+D:\LibraryManagementSystem\LibraryUtil\bin\Debug\net6.0\LibraryUtil.pdb
+D:\LibraryManagementSystem\LibraryUtil\obj\Debug\net6.0\LibraryUtil.csproj.AssemblyReference.cache
+D:\LibraryManagementSystem\LibraryUtil\obj\Debug\net6.0\LibraryUtil.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraryManagementSystem\LibraryUtil\obj\Debug\net6.0\LibraryUtil.AssemblyInfoInputs.cache
+D:\LibraryManagementSystem\LibraryUtil\obj\Debug\net6.0\LibraryUtil.AssemblyInfo.cs
+D:\LibraryManagementSystem\LibraryUtil\obj\Debug\net6.0\LibraryUtil.csproj.CoreCompileInputs.cache
+D:\LibraryManagementSystem\LibraryUtil\obj\Debug\net6.0\LibraryUtil.dll
+D:\LibraryManagementSystem\LibraryUtil\obj\Debug\net6.0\refint\LibraryUtil.dll
+D:\LibraryManagementSystem\LibraryUtil\obj\Debug\net6.0\LibraryUtil.pdb
+D:\LibraryManagementSystem\LibraryUtil\obj\Debug\net6.0\ref\LibraryUtil.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryUtil\bin\Debug\net6.0\LibraryUtil.deps.json
+D:\Library(CQRS)\LibraryManagementSystem\LibraryUtil\bin\Debug\net6.0\LibraryUtil.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryUtil\bin\Debug\net6.0\LibraryUtil.pdb
+D:\Library(CQRS)\LibraryManagementSystem\LibraryUtil\obj\Debug\net6.0\LibraryUtil.csproj.AssemblyReference.cache
+D:\Library(CQRS)\LibraryManagementSystem\LibraryUtil\obj\Debug\net6.0\LibraryUtil.GeneratedMSBuildEditorConfig.editorconfig
+D:\Library(CQRS)\LibraryManagementSystem\LibraryUtil\obj\Debug\net6.0\LibraryUtil.AssemblyInfoInputs.cache
+D:\Library(CQRS)\LibraryManagementSystem\LibraryUtil\obj\Debug\net6.0\LibraryUtil.AssemblyInfo.cs
+D:\Library(CQRS)\LibraryManagementSystem\LibraryUtil\obj\Debug\net6.0\LibraryUtil.csproj.CoreCompileInputs.cache
+D:\Library(CQRS)\LibraryManagementSystem\LibraryUtil\obj\Debug\net6.0\LibraryUtil.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryUtil\obj\Debug\net6.0\refint\LibraryUtil.dll
+D:\Library(CQRS)\LibraryManagementSystem\LibraryUtil\obj\Debug\net6.0\LibraryUtil.pdb
+D:\Library(CQRS)\LibraryManagementSystem\LibraryUtil\obj\Debug\net6.0\ref\LibraryUtil.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryUtil\bin\Debug\net6.0\LibraryUtil.deps.json
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryUtil\bin\Debug\net6.0\LibraryUtil.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryUtil\bin\Debug\net6.0\LibraryUtil.pdb
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryUtil\obj\Debug\net6.0\LibraryUtil.csproj.AssemblyReference.cache
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryUtil\obj\Debug\net6.0\LibraryUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryUtil\obj\Debug\net6.0\LibraryUtil.AssemblyInfoInputs.cache
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryUtil\obj\Debug\net6.0\LibraryUtil.AssemblyInfo.cs
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryUtil\obj\Debug\net6.0\LibraryUtil.csproj.CoreCompileInputs.cache
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryUtil\obj\Debug\net6.0\LibraryUtil.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryUtil\obj\Debug\net6.0\refint\LibraryUtil.dll
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryUtil\obj\Debug\net6.0\LibraryUtil.pdb
+C:\Users\mahalingam_k.BLR\Downloads\maha\maha\LibraryManagementSystem-BE\LibraryUtil\obj\Debug\net6.0\ref\LibraryUtil.dll
